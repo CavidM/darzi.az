@@ -1,0 +1,368 @@
+{
+  "top": {
+    "1": {
+      "has_back" : 1,
+      "has_sleeve" : 1,
+      "front" : "1_front.jpg",
+      "back" : "1_back.jpg",
+      "price": 100,
+      "size":1
+    },
+    "2": {
+      "has_back" : 1,
+      "has_sleeve" : 1,
+      "front" : "2_front.jpg",
+      "back" : "2_back.jpg",
+      "price": 700,
+      "size":1
+    },
+    "3": {
+      "has_back" : 1,
+      "has_sleeve" : 1,
+      "has_collar" : 1,
+      "front" : "3_front.jpg",
+      "back" : "3_back.jpg",
+      "price": 500,
+      "size":1
+    },
+    "4": {
+      "has_sleeve" : 1,
+      "front" : "4_front.jpg",
+      "back" : "4_back.jpg",
+      "price": 300,
+      "size":1.5
+    },
+    "5": {
+      "has_sleeve" : 1,
+      "front" : "5_front.jpg",
+      "back" : "5_back.jpg",
+      "price": 200,
+      "size":1
+    },
+    "6": {
+      "has_back" : 1,
+      "has_sleeve" : 1,
+      "front" : "6_front.jpg",
+      "back" : "6_back.jpg",
+      "price": 100,
+      "size":1
+    },
+    "7": {
+      "front" : "7_front.jpg",
+      "back" : "7_back.jpg",
+      "price": 70,
+      "size":1.5
+    },
+    "8": {
+      "front" : "8_front.jpg",
+      "back" : "8_back.jpg",
+      "price": 50,
+      "size":1
+    },
+    "9": {
+      "front" : "9_front.jpg",
+      "back" : "9_back.jpg",
+      "price": 1000,
+      "size":1
+    },
+    "10": {
+      "front" : "10_front.jpg",
+      "back" : "10_back.jpg",
+      "price": 2000,
+      "size":1
+    },
+    "11": {
+      "front" : "11_front.jpg",
+      "back" : "11_back.jpg",
+      "price": 800,
+      "size":1
+    },
+    "12": {
+      "front" : "12_front.jpg",
+      "back" : "12_back.jpg",
+      "price": 900,
+      "size":1
+    },
+    "13": {
+      "front" : "13_front.jpg",
+      "back" : "13_back.jpg",
+      "price": 700,
+      "size":1
+    },
+    "14": {
+      "has_sleeve" : 1,
+      "has_collar" : 1,
+      "front" : "14_front.jpg",
+      "back" : "14_back.jpg",
+      "price": 400,
+      "size":1
+    },
+    "15": {
+      "front" : "15_front.jpg",
+      "back" : "15_back.jpg",
+      "price": 500,
+      "size":1
+    },
+    "16": {
+      "has_back" : 1,
+      "has_sleeve" : 1,
+      "front" : "16_front.jpg",
+      "back" : "16_back.jpg",
+      "price": 300,
+      "size":1
+    },
+    "17": {
+      "has_back" : 1,
+      "has_sleeve" : 1,
+      "front" : "17_front.jpg",
+      "back" : "17_back.jpg",
+      "price": 200,
+      "size":1
+    }
+  },
+
+  "skirt" : {
+    "1": {
+      "front" : "1_front.jpg",
+      "back" : "1_back.jpg",
+      "price": 40,
+      "size":1
+    },
+    "2": {
+      "front" : "2_front.jpg",
+      "back" : "2_back.jpg",
+      "price": 250,
+      "size":1.5
+    },
+    "3": {
+      "front" : "3_front.jpg",
+      "back" : "3_back.jpg",
+      "price": 40,
+      "size":1.5
+    },
+    "4": {
+      "front" : "4_front.jpg",
+      "back" : "4_back.jpg",
+      "price": 40,
+      "size":2
+    },
+    "5": {
+      "front" : "5_front.jpg",
+      "back" : "5_back.jpg",
+      "price": 40,
+      "size":1
+    },
+    "6": {
+      "front" : "6_front.jpg",
+      "back" : "6_back.jpg",
+      "price": 40,
+      "size":1.5
+    },
+    "7": {
+      "front" : "7_front.jpg",
+      "back" : "7_back.jpg",
+      "price": 40,
+      "size":1.5
+    },
+    "8": {
+      "front" : "8_front.jpg",
+      "back" : "8_back.jpg",
+      "price": 40,
+      "size": 2
+    },
+    "9": {
+      "front" : "9_front.jpg",
+      "back" : "9_back.jpg",
+      "price": 40,
+      "size": 3
+    },
+    "10": {
+      "front" : "10_front.jpg",
+      "back" : "10_back.jpg",
+      "price": 40,
+      "size": 1.5
+    },
+    "11": {
+      "front" : "11_front.jpg",
+      "back" : "11_back.jpg",
+      "price": 40,
+      "size": 2
+    },
+    "12": {
+      "front" : "12_front.jpg",
+      "back" : "12_back.jpg",
+      "price": 40,
+      "size": 3
+    },
+    "13": {
+      "front" : "13_front.jpg",
+      "back" : "13_back.jpg",
+      "price": 40,
+      "size": 2
+    },
+    "14": {
+      "front" : "14_front.jpg",
+      "back" : "14_back.jpg",
+      "price": 40,
+      "size": 2
+    },
+    "15": {
+      "front" : "15_front.jpg",
+      "back" : "15_back.jpg",
+      "price": 40,
+      "size": 3
+    },
+    "16": {
+      "front" : "16_front.jpg",
+      "back" : "16_back.jpg",
+      "price": 40,
+      "size": 3
+    },
+    "17": {
+      "front" : "17_front.jpg",
+      "back" : "17_back.jpg",
+      "price": 40,
+      "size": 1.5
+    },
+    "18": {
+      "front" : "18_front.jpg",
+      "back" : "18_back.jpg",
+      "price": 40,
+      "size": 2.5
+    },
+    "19": {
+      "front" : "19_front.jpg",
+      "back" : "19_back.jpg",
+      "price": 40,
+      "size": 3
+    },
+    "20": {
+      "front" : "20_front.jpg",
+      "back" : "20_back.jpg",
+      "price": 40,
+      "size": 2.5
+    },
+    "21": {
+      "front" : "21_front.jpg",
+      "back" : "21_back.jpg",
+      "price": 40,
+      "size": 2.5
+    },
+    "22": {
+      "front" : "22_front.jpg",
+      "back" : "22_back.jpg",
+      "price": 40,
+      "size": 1.5
+    },
+    "23": {
+      "front" : "23_front.jpg",
+      "back" : "23_back.jpg",
+      "price": 40,
+      "size": 2
+    }
+  },
+
+  "back": {
+    "1": {
+      "front" : "1_front.jpg",
+      "back" : "1_back.jpg",
+      "price": 0,
+      "size": 0
+    },
+    "2": {
+      "front" : "2_front.jpg",
+      "back" : "2_back.jpg",
+      "price": 0,
+      "size": 0
+    },
+    "3": {
+      "front" : "3_front.jpg",
+      "back" : "3_back.jpg",
+      "price": 0,
+      "size": 0
+    },
+    "4": {
+      "front" : "4_front.jpg",
+      "back" : "4_back.jpg",
+      "price": 0,
+      "size": 0
+    }
+  },
+
+  "sleeve": {
+    "1": {
+      "front" : "1_front.jpg",
+      "back" : "1_back.jpg",
+      "price": 65,
+      "size": 0.5
+    },
+    "2": {
+      "front" : "2_front.jpg",
+      "back" : "2_back.jpg",
+      "price": 200,
+      "size": 0.5
+    },
+    "3": {
+      "front" : "3_front.jpg",
+      "back" : "3_back.jpg",
+      "price": 65,
+      "size": 0.5
+    },
+    "4": {
+      "front" : "4_front.jpg",
+      "back" : "4_back.jpg",
+      "price": 65,
+      "size": 0.5
+    },
+    "5": {
+      "front" : "5_front.jpg",
+      "back" : "5_back.jpg",
+      "price": 65,
+      "size": 1
+    },
+    "6": {
+      "front" : "6_front.jpg",
+      "back" : "6_back.jpg",
+      "price": 65,
+      "size": 0.5
+    },
+    "7": {
+      "front" : "7_front.jpg",
+      "back" : "7_back.jpg",
+      "price": 65,
+      "size": 1
+    },
+    "8": {
+      "front" : "8_front.jpg",
+      "back" : "8_back.jpg",
+      "price": 65,
+      "size": 1
+    },
+    "9": {
+      "front" : "9_front.jpg",
+      "back" : "9_back.jpg",
+      "price": 65,
+      "size": 0.5
+    }
+  },
+  "collar": {
+    "1": {
+      "front" : "1_front.jpg",
+      "back" : "1_back.jpg",
+      "price": 65,
+      "size": 0.5
+    },
+    "2": {
+      "front" : "2_front.jpg",
+      "back" : "2_back.jpg",
+      "price": 200,
+      "size": 0.5
+    },
+    "3": {
+      "front" : "3_front.jpg",
+      "back" : "3_back.jpg",
+      "price": 65,
+      "size": 0.5
+    }
+  }
+}
